@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.e5ba5439.css",
+    "main.js": "/portafolio/static/js/main.8bbb4f38.js",
+    "static/media/elias.png": "/portafolio/static/media/elias.deac24134306ee31a086.png",
+    "static/media/mi_cv.pdf": "/portafolio/static/media/mi_cv.fd369535463bd5cc6c57.pdf",
+    "static/media/elias.jpg": "/portafolio/static/media/elias.3e1e6b8310be673506b8.jpg",
+    "static/media/slide20.jpg": "/portafolio/static/media/slide20.87533aef5a2588c41ad0.jpg",
+    "static/media/slide11.jpg": "/portafolio/static/media/slide11.af704bffde9d9e2603b3.jpg",
+    "static/media/slide01.jpg": "/portafolio/static/media/slide01.3c727fdfce5264a4d78c.jpg",
+    "static/media/slide23.jpg": "/portafolio/static/media/slide23.60fd2c3aecd685215aa7.jpg",
+    "static/media/slide33.jpg": "/portafolio/static/media/slide33.6bb1bbd165d698668b9d.jpg",
+    "static/media/slide14.jpg": "/portafolio/static/media/slide14.a21a755b813b927f4a45.jpg",
+    "static/media/slide21.jpg": "/portafolio/static/media/slide21.0d6a3646358f33b0a723.jpg",
+    "static/media/slide03.jpg": "/portafolio/static/media/slide03.ce068badceab495bfc10.jpg",
+    "static/media/slide02.jpg": "/portafolio/static/media/slide02.159b7d0a3229e16f8942.jpg",
+    "static/media/slide13.jpg": "/portafolio/static/media/slide13.c67a002f907834f2c799.jpg",
+    "static/media/slide30.jpg": "/portafolio/static/media/slide30.1e33870be7a9615473a9.jpg",
+    "static/media/slide04.jpg": "/portafolio/static/media/slide04.74e499cc95e77d9468c5.jpg",
+    "static/media/slide32.jpg": "/portafolio/static/media/slide32.fd86e067fcde4c535c19.jpg",
+    "static/media/slide31.jpg": "/portafolio/static/media/slide31.00c2e5d486301673e0d4.jpg",
+    "static/media/slide41.jpg": "/portafolio/static/media/slide41.1b987aa8a33f5547ff81.jpg",
+    "static/media/slide12.jpg": "/portafolio/static/media/slide12.278033364d6f5098a91e.jpg",
+    "static/media/slide43.jpg": "/portafolio/static/media/slide43.55cd744bd2091dd64b49.jpg",
+    "static/media/slide42.jpg": "/portafolio/static/media/slide42.bcf53645072b3097a050.jpg",
+    "static/media/slide40.jpg": "/portafolio/static/media/slide40.470fa644e58794ee9301.jpg",
+    "static/media/slide22.jpg": "/portafolio/static/media/slide22.350dbb372655ea87475b.jpg",
+    "static/media/slide15.jpg": "/portafolio/static/media/slide15.04686b2fcf99d1b4b5f4.jpg",
+    "static/media/slide10.jpg": "/portafolio/static/media/slide10.e4ece970fb7e446a2c9b.jpg",
+    "index.html": "/portafolio/index.html",
+    "main.e5ba5439.css.map": "/portafolio/static/css/main.e5ba5439.css.map",
+    "main.8bbb4f38.js.map": "/portafolio/static/js/main.8bbb4f38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ba5439.css",
+    "static/js/main.8bbb4f38.js"
+  ]
+}

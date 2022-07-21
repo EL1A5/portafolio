@@ -22,7 +22,7 @@ function footer() {
 
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/elias-roy-903434200/"><BsLinkedin/></a>
-        <a href="https://github.com/EL1A5?tab=repositories"><BsGithub/></a>
+        <a href="https://github.com/eliasroy"><BsGithub/></a>
         <a href="https://www.facebook.com/RoyElias0/"><FaFacebook/></a>
         <a href="https://www.instagram.com/_elias_roy_/?hl=es"><BsInstagram/></a>
       </div>

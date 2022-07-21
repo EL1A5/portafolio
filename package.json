@@ -1,6 +1,6 @@
 {
+  "homepage": "https://eliasroy.github.io/portafolio",  
   "name": "elias-portafolio",
-  "homepage": "http://el1a5.github.io/portafolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

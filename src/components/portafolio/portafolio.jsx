@@ -163,6 +163,17 @@ function portafolio() {
                    
                     </div>
                  )
+                }else if (github_back=='' ) {
+                  return (
+                    <div className='portafolio__item-cta'>
+                    
+                      
+  
+                    <a href={github_front} className='btn' target='_blank'>GitHub Front</a>
+                  
+                     <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+                     </div>
+                  )
                 }else{
                   return(
                     <div className='portafolio__item-cta'>

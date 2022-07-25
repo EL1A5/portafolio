@@ -5,7 +5,7 @@ function experience() {
   return (
     <section  className='seccion experience' id='experience'>
     
-      <h2>Mi Experiencia</h2>
+      <h2>Mis Conocimientos</h2>
 
       <div className="container experience__container">
         <div className="experience__frontend">

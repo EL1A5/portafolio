@@ -30,13 +30,13 @@ function about() {
               <article className='about__card'>
                 <FaAward className='about__icon'/>
                 <h5>Experiencia</h5>
-                <small>+1 año experiencia </small>
+                <small>Trainee</small>
               </article> 
 
               <article className='about__card'>
                 <VscFolderLibrary className='about__icon'/>
                 <h5>Proyectos</h5>
-                <small>+10 completos </small>
+                <small>+10 completos</small>
               </article> 
 
               

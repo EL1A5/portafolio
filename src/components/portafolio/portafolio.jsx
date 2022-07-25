@@ -35,7 +35,9 @@ import IMG20 from '../../assets/slide40.jpg'
 import IMG21 from '../../assets/slide41.jpg'
 import IMG22 from '../../assets/slide42.jpg'
 import IMG23 from '../../assets/slide43.jpg'
-
+import IMG24 from '../../assets/slide50.jpg'
+import IMG25 from '../../assets/slide51.jpg'
+import IMG26 from '../../assets/slide52.jpg'
 
 
 
@@ -43,6 +45,15 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 const data=[ 
   {
     id: 1,
+    image:[IMG12,IMG13,IMG14,IMG15],
+    title:'Gestion de Departamentos',
+    tech:['Spring','Spring Security','Thymeleaf','MySql','Scrum','GitHub'],
+    github_back:'',
+    github_front:'https://github.com/EL1A5/Proyecto_PI.git',
+    demo:'https://gestion-departamentos.herokuapp.com/login'
+  },
+  {
+    id: 2,
     image:[IMG1,IMG2,IMG3,IMG4],
     title:'Mantenimiento Docentes',
     tech:['Spring','Angular','Mysql','SweetAlert2'],
@@ -51,7 +62,7 @@ const data=[
     demo:'https://dawii-front-elias-provincia.herokuapp.com/crudDocente'
   },
    {
-    id: 2,
+    id: 3,
     image:[IMG5,IMG7,IMG8,IMG9,IMG10,IMG11],
     title:'Sistema de Incidencias',
     tech:['ApiRest','Spring','MySql','Javascript','Thymeleaf','GitHub'],
@@ -59,15 +70,7 @@ const data=[
     github_front:'https://github.com/EL1A5/ProyectoFront_DSW2.git',
     demo:''
   },
-  {
-    id: 3,
-    image:[IMG12,IMG13,IMG14,IMG15],
-    title:'Gestion de Departamentos',
-    tech:['Spring','Spring Security','Thymeleaf','MySql','Scrum','GitHub'],
-    github_back:'',
-    github_front:'https://github.com/EL1A5/Proyecto_PI.git',
-    demo:'https://gestion-departamentos.herokuapp.com/login'
-  },
+ 
   {
     id: 4,
     image:[IMG19,IMG17,IMG18,IMG16],
@@ -84,7 +87,16 @@ const data=[
     tech:['PHP','Javascript','html','css','xampp'],
     github_back:'',
     github_front:'https://github.com/EL1A5/Formulario-Contacto-php',
-    demo:''
+    demo:'https://formulario-contacto-php.herokuapp.com/'
+  },
+  {
+    id: 6,
+    image:[IMG24,IMG25,IMG26],
+    title:'Descarga de Miniaturas',
+    tech:['PHP','Javascript','html','css'],
+    github_back:'',
+    github_front:'https://github.com/eliasroy/descargar-miniaturas.git',
+    demo:'https://descargar-miniaturas.herokuapp.com/'
   }
 
 
@@ -169,7 +181,7 @@ function portafolio() {
                     
                       
   
-                    <a href={github_front} className='btn' target='_blank'>GitHub Front</a>
+                    <a href={github_front} className='btn' target='_blank'>GitHub</a>
                   
                      <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
                      </div>

@@ -16,7 +16,7 @@ function experience() {
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experiencia</small>
+                <small className='text-light'>Intermedio</small>
             </div>
             </article>
 
@@ -77,7 +77,7 @@ function experience() {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
               <h4>Java Spring</h4>
-              <small className='text-light'>Experiencia</small>
+              <small className='text-light'>Intermedio</small>
               </div>
               </article>
 
